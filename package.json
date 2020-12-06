@@ -1,18 +1,22 @@
-
 {
-  "name": "nodemongo",
+  "name": "nodemongo1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-    "assert": "^1.4.1",
-    "mongodb": "^3.0.10"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start":"node index"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashikalakudlur/node-mongo.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashikalakudlur/node-mongo/issues"
+  },
+  "homepage": "https://github.com/shashikalakudlur/node-mongo#readme"
 }
